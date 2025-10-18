@@ -33,3 +33,23 @@ This project is ideal for learners and developers who want a practical template 
 ---
 
 ## 🗂️ Folder Structure
+
+python_mysql_crud/
+│
+├── app/
+│ ├── init.py
+│ ├── main.py # FastAPI main application file
+│ ├── db_config.py # Database connection and config
+│ ├── models.py # Database models
+│ ├── crud.py # CRUD operations
+│ ├── static/ # Static files (CSS, JS)
+│ │ └── style.css
+│ └── templates/ # HTML templates
+│ ├── base.html
+│ ├── students.html
+│ ├── add_student.html
+│ ├── edit_student.html
+│
+├── database.sql # MySQL schema and sample data
+├── requirements.txt # Dependencies
+└── README.md # Project documentation
