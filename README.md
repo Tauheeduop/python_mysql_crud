@@ -31,9 +31,9 @@ This project is ideal for learners and developers who want a practical template 
 
 ---
 
-'''
-   I am Tauheed Ahmad Shah.
-'''
+
+> Tauheed Ahmad Shah   I am Tauheed Ahmad Shah.
+
 ## 🗂️ Folder Structure
 
 python_mysql_crud/
